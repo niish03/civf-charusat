@@ -35,7 +35,7 @@ const Navbar = () => {
                                     
                                 </li>
                                 <li className="nav-item dropdown submenu">
-                                    <a className="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a className="nav-link dropdown-toggle" href="/acceleration-program" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Acceleration Program
                                     </a>
                                    

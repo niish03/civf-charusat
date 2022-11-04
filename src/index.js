@@ -21,6 +21,7 @@ import './components/themify-icon/themify-icons.css';
 import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
 import AboutUs from './components/AboutUS/AboutUs';
+import AccelerationProgram from './components/AccelerationProgram/AccelerationProgram';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -31,6 +32,7 @@ root.render(
             
                 <Route index element={<> <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"></link>  <Home /> </>} />
                 <Route path='/about' element={<AboutUs/>} />
+                <Route path='/acceleration-program' element={<AccelerationProgram/>} />
             </Routes>
         </BrowserRouter>
         <Footer />
