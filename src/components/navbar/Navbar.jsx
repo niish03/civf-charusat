@@ -28,19 +28,19 @@ const Navbar = () => {
                                 <li className="dropdown submenu nav-item"><a title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/about">About us</a>
                                     
                                 </li>
-                                <li className="nav-item dropdown">
-                                    <a className="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Start-up Portfolio
-                                    </a>
-                                    
-                                </li>
+
                                 <li className="nav-item dropdown submenu">
                                     <a className="nav-link dropdown-toggle" href="/acceleration-program" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Acceleration Program
                                     </a>
                                    
                                 </li>
-                                
+                                {/* <li className="nav-item dropdown">
+                                    <a className="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Start-up Portfolio
+                                    </a>
+                                    
+                                </li> */}
                                 <li className="nav-item dropdown submenu">
                                     <a className="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Benefits

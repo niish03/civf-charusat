@@ -32,8 +32,8 @@ const AccelerationProgram = () => {
 
                         <div className="col-lg-6">
                             <div className="service_details_img ml-0 pt-5" >
-                                <img style={{ width: '100%' }} src="https://firebasestorage.googleapis.com/v0/b/portfolio-7f008.appspot.com/o/pexels-andrea-piacquadio-3756681.jpg?alt=media&token=8c07bbaa-915f-4629-9849-b70aabbd6ae8" alt="" />
-                                <img className='pt-5' style={{ width: '100%' }} src="https://firebasestorage.googleapis.com/v0/b/portfolio-7f008.appspot.com/o/christopher-gower-m_HRfLhgABo-unsplash.jpg?alt=media&token=24e54a87-5bb1-432d-945f-6a8b0b858aee" alt="" />
+                                <img style={{ width: '100%' }} src="https://firebasestorage.googleapis.com/v0/b/portfolio-7f008.appspot.com/o/campaign-creators-gMsnXqILjp4-unsplash.jpg?alt=media&token=3e6a670f-8408-4f6d-8eeb-ff66eb85b1b6" alt="" />
+                                <img className='pt-5' style={{ width: '100%' }} src="https://firebasestorage.googleapis.com/v0/b/portfolio-7f008.appspot.com/o/christopher-gower-m_HRfLhgABo-unsplash.jpg?alt=media&token=1ea593cf-b77f-46bf-950f-4131faee71c5" alt="" />
                             </div>
                         </div>
 
